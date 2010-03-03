@@ -12,6 +12,8 @@
  *  - your server user has access to crontab
  *  - you know what you are doing
  * 
+ * get latest version at git://github.com/biozshock/crontab.git
+ * 
  * @author biozshock
  * @package Codeigniter
  * @subpackage Libraries

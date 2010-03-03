@@ -34,5 +34,3 @@ $config['cli_path'] = APPPATH;
  * @var int
  */
 $config['time_offset'] = -6;
-
-$config['cronjob_renew_feed'] = '/cli/renew_feed.php';
